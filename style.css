@@ -16,15 +16,6 @@ h1 {
   align-items: center;
 }
 
-.swal-overlay {
-  background-color: rgba(218, 180, 230, 0.45);
-}
-
-.swal-text {
-  font-size: 18px;
-  font-weight: bold;
-}
-
 #button {
     background-color: #7E459B;
     border: none;
